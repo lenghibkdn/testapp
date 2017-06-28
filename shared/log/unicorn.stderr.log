@@ -1,0 +1,9 @@
+I, [2017-06-27T12:49:34.538783 #8378]  INFO -- : Refreshing Gem list
+I, [2017-06-27T12:49:36.128564 #8378]  INFO -- : listening on addr=/home/ubuntu/testapp/shared/sockets/unicorn.sock fd=11
+I, [2017-06-27T12:49:36.128731 #8378]  INFO -- : worker=0 spawning...
+I, [2017-06-27T12:49:36.130302 #8378]  INFO -- : worker=1 spawning...
+I, [2017-06-27T12:49:36.131079 #8381]  INFO -- : worker=0 spawned pid=8381
+I, [2017-06-27T12:49:36.131259 #8381]  INFO -- : worker=0 ready
+I, [2017-06-27T12:49:36.132158 #8378]  INFO -- : master process ready
+I, [2017-06-27T12:49:36.140149 #8384]  INFO -- : worker=1 spawned pid=8384
+I, [2017-06-27T12:49:36.140293 #8384]  INFO -- : worker=1 ready
